@@ -110,6 +110,7 @@ Hash-DID/
 Core Capabilities
 
 1. Decentralized Identifiers (DID)
+
 • Create and manage DIDs locally
 • No central registry
 • No blockchain dependency
@@ -245,6 +246,8 @@ Contributions are welcome.
 License
 
 MIT License
+
+---
 
 Vision
 
